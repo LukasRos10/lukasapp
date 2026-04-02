@@ -109,7 +109,7 @@ with cols[4]:
 
 st.write("Her er sangen \"Golden\" af Huntr/x, \"Grenade\" af Bruno Mars og \"Blinding Lights\" af The Weeknd.")
 
-
+st.image("https://twt-thumbs.washtimes.com/media/image/2026/03/15/98th_Academy_Awards_-_Show_39755_c0-233-5560-3474_s885x516.jpg?56325d69833a0ca4f8002f66a4c9185d94681fdfc9e1b8c9e5f0a7d2b", caption="Dette er et billede af Oscar-uddelingen")
 
 st.title("Streaming")
 
