@@ -1,5 +1,4 @@
 from filecmp import clear_cache
-from pickle import GET
 from turtle import color
 import streamlit as st
 import pandas as pd
