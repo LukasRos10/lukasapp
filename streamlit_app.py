@@ -6,7 +6,7 @@ import pandas as pd
 
 
 from urllib3 import request
-st.set_page_config(page_title="Lukas' hjemmeside", )
+st.set_page_config(page_title="Lukas'hjemmeside", )
 
 
 def connection_factory():
