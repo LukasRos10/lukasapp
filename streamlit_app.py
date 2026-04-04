@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 
 
-
+st.set_page_config(layout="wide")
 from urllib3 import request
 st.set_page_config(page_title="Lukas'hjemmeside", )
 
